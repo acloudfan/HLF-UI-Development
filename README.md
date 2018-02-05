@@ -21,6 +21,3 @@ http://ACloudFan.com
 
 
 
-composer participant add -d '{"$class":"org.acme.airline.participant.ACMENetworkAdmin","participantKey":"acloudfan","contact":{"$class":"org.acme.airline.participant.Contact","fName":"a","lname":"f","email":"acloudfan@acmeairline.com"}}' -c admin@airlinev8
-
-composer identity issue -u acloudfan  -a org.acme.airline.participant.ACMENetworkAdmin#acloudfan -c admin@airlinev8
