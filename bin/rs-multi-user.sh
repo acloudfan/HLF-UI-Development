@@ -20,8 +20,8 @@ export COMPOSER_DATASOURCES='{
     "db": {
         "name": "db",
         
-        "host": "ds125068.mlab.com",
-        "port": 25068,
+        "host": "HOST NAME",
+        "port": PORT NUMBER,
        
         "database": "restauth",
 
